@@ -1,0 +1,23 @@
+{
+  "name": "bamzon-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elioye27/bamzon-MySQL.git"
+  },
+  "author": "Elijah Oyebobola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elioye27/bamzon-MySQL/issues"
+  },
+  "homepage": "https://github.com/elioye27/bamzon-MySQL#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
